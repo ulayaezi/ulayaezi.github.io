@@ -1,0 +1,7 @@
+User-Agent: *
+Disallow: /login
+
+Sitemap: https://ulayaezi.github.io/Sgc/sitemap_index.txt
+Sitemap: https://ulayaezi.github.io/lyN/sitemap_index.txt
+Sitemap: https://ulayaezi.github.io/nXc/sitemap_index.txt
+Sitemap: https://ulayaezi.github.io/weE/sitemap_index.txt
